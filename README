@@ -1,0 +1,6 @@
+http://localhost:3000/stats?coin=bitcoin
+http://localhost:3000/stats?coin=matic-network
+http://localhost:3000/stats?coin=ethereum
+http://localhost:3000/deviation?coin=bitcoin
+http://localhost:3000/deviation?coin=matic-network
+http://localhost:3000/deviation?coin=ethereum
